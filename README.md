@@ -7,8 +7,9 @@ To open and run this project in Visual Studio 2022 Community, follow these steps
    - Click on **Clone a repository** from the start page.
    - In the **Repository location** field, paste the following link:
      ```bash
-     https://github.com/MuhammadFaris021120/carpark-info-assignment
+     https://github.com/MuhammadFaris021120/carpark-info-assignment.git
      ```
+   - Dont forget to put .git at the end.
    - Choose the folder where you want to clone the repository and click **Clone**.
 
 2. **Run the Project**:
