@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CarparkInfo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61923c20aadc3f6b45eadd77f8f1cad3251e30f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("CarparkInfo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CarparkInfo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
